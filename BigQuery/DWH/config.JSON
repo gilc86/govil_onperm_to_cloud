@@ -1,0 +1,14 @@
+{
+	"bigquery": {
+		"projectNameGCP": "dgt-gcp-egov-test-govilbi-0",
+		"datasetGCP": "GovilBiDwhDS"
+	},
+	"sourceDWH": {
+		"SERVER": "LAP0931",
+		"DATABASE": "Govil_dwh_onPrem",
+		"UID": "DWH",
+		"PWD": "DWH"
+	}
+}
+
+
